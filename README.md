@@ -15,6 +15,6 @@ LocoNet-NotAus requires my library listed below in addition to various Arduino s
 
 ### original files and schematic
 The original was developed for FREMO by H.Herholz and published here:<br>
-- Hp1 Modellbahn – 3. Quartal 2010 Seite 22: "Not-Aus für Zuhaus'"<br>
+- Hp1 Modellbahn – 3. Quartal 2010 Seite 22: "Not-Aus für Zuhaus'" (https://www.fremo-net.eu/fileadmin/hp1_archiv/Hp1_10_3_web.pdf)<br>
 - Digitale Modellbahn Heft 1/2015, Seite 60: "Notaus fürs Loconet"<br>
 (sources where published on http://www.vgbahn.de/downloads/dimo/2015Heft1/loconet_notaus.zip, but are not longer available there)
