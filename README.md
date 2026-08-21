@@ -8,6 +8,8 @@ The current status is displayed with two addtitional LEDs.
 This (my) version was adapted to compile with Arduino-IDE for Arduino-UNO.
 Fuses has to be set as follows: lfuse = 0xFF; hfuse = 0xDE; efuse = 0xFD
 
+### An other Solution...
+... is described in an [Infoletter](https://github.com/Kruemelbahn/Infoletter/blob/main/Modellbahn/Kr%C3%BCmelbahn%20Info%2023%20-%20Notaus%20auf%20einer%20Modulanlage.pdf)
 
 ### Requested libraries
 LocoNet-NotAus requires my library listed below in addition to various Arduino standard libraries:<br> 
